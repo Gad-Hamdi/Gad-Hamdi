@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Alaa</h1>
+<h1 align="center">Hi 👋, I'm Gad Hamdi</h1>
 <h3 align="center"> Dot-net developer / problem-solving </h3>
 
 * I am currently learning backend with dot net & looking forward to contributing to real dotnet projects
